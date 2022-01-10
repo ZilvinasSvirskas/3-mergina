@@ -23,4 +23,4 @@ Design:
 
 ## Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Zilvinas: https://github.com/ZilvinasSvirskas
