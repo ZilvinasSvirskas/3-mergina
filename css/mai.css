@@ -45,19 +45,22 @@ main{
 div{
 
     float: left;
-    width: 42%;
+    width: 40%;
+    margin-top: 100px;
     margin-left: 2%;
-    margin-right: 2%;
+    margin-right: 3%;
 }
 h1{
-
+    font-size: 100px;
+    margin: 0;
 }
 p{
-
+    font-size: 30px;
+    margin: 0;
 }
 main > img{
     float: right;
     width: 50%;
-    margin-left: 2%;
+    margin-left: 3%;
     margin-right: 2%;
 }
