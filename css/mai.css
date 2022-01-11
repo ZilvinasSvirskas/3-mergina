@@ -24,7 +24,8 @@ main{
     background-color: turquoise;
 }
 div{
-
+float: left;
+width: 49%;
 }
 h1{
 
